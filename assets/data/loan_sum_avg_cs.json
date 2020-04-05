@@ -1,0 +1,452 @@
+[
+    {
+        "addr_state": "AK",
+        "sum_loaned": 56732375,
+        "funded_amnt": 56732375,
+        "avg_loan": 18160,
+        "avg_annual_inc": 83439,
+        "avg_fico_range_low": 703,
+        "avg_fico_range_high": 707
+    },
+    {
+        "addr_state": "AL",
+        "sum_loaned": 254276600,
+        "funded_amnt": 254276600,
+        "avg_loan": 15362,
+        "avg_annual_inc": 74896,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "AR",
+        "sum_loaned": 164267700,
+        "funded_amnt": 164267700,
+        "avg_loan": 14716,
+        "avg_annual_inc": 69378,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "AZ",
+        "sum_loaned": 547049825,
+        "funded_amnt": 547049825,
+        "avg_loan": 15324,
+        "avg_annual_inc": 78341,
+        "avg_fico_range_low": 703,
+        "avg_fico_range_high": 707
+    },
+    {
+        "addr_state": "CA",
+        "sum_loaned": 3219450525,
+        "funded_amnt": 3219450525,
+        "avg_loan": 16317,
+        "avg_annual_inc": 89297,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "CO",
+        "sum_loaned": 492435100,
+        "funded_amnt": 492435100,
+        "avg_loan": 15887,
+        "avg_annual_inc": 80967,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "CT",
+        "sum_loaned": 384386850,
+        "funded_amnt": 384386850,
+        "avg_loan": 16055,
+        "avg_annual_inc": 90211,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "DC",
+        "sum_loaned": 50771975,
+        "funded_amnt": 50771975,
+        "avg_loan": 16912,
+        "avg_annual_inc": 102401,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "DE",
+        "sum_loaned": 66614875,
+        "funded_amnt": 66614875,
+        "avg_loan": 15868,
+        "avg_annual_inc": 79442,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "FL",
+        "sum_loaned": 1675257525,
+        "funded_amnt": 1675257525,
+        "avg_loan": 15399,
+        "avg_annual_inc": 77295,
+        "avg_fico_range_low": 702,
+        "avg_fico_range_high": 706
+    },
+    {
+        "addr_state": "GA",
+        "sum_loaned": 776013675,
+        "funded_amnt": 776013675,
+        "avg_loan": 16147,
+        "avg_annual_inc": 82552,
+        "avg_fico_range_low": 703,
+        "avg_fico_range_high": 707
+    },
+    {
+        "addr_state": "HI",
+        "sum_loaned": 107049900,
+        "funded_amnt": 107049900,
+        "avg_loan": 16981,
+        "avg_annual_inc": 82213,
+        "avg_fico_range_low": 703,
+        "avg_fico_range_high": 707
+    },
+    {
+        "addr_state": "ID",
+        "sum_loaned": 74155375,
+        "funded_amnt": 74155375,
+        "avg_loan": 14905,
+        "avg_annual_inc": 70048,
+        "avg_fico_range_low": 700,
+        "avg_fico_range_high": 704
+    },
+    {
+        "addr_state": "IL",
+        "sum_loaned": 944336575,
+        "funded_amnt": 944336575,
+        "avg_loan": 16198,
+        "avg_annual_inc": 83607,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "IN",
+        "sum_loaned": 378110575,
+        "funded_amnt": 378110575,
+        "avg_loan": 15270,
+        "avg_annual_inc": 72956,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "KS",
+        "sum_loaned": 184818000,
+        "funded_amnt": 184818000,
+        "avg_loan": 15609,
+        "avg_annual_inc": 75598,
+        "avg_fico_range_low": 708,
+        "avg_fico_range_high": 712
+    },
+    {
+        "addr_state": "KY",
+        "sum_loaned": 211491525,
+        "funded_amnt": 211491525,
+        "avg_loan": 14950,
+        "avg_annual_inc": 72680,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "LA",
+        "sum_loaned": 241239425,
+        "funded_amnt": 241239425,
+        "avg_loan": 15410,
+        "avg_annual_inc": 78736,
+        "avg_fico_range_low": 706,
+        "avg_fico_range_high": 710
+    },
+    {
+        "addr_state": "MA",
+        "sum_loaned": 543348625,
+        "funded_amnt": 543348625,
+        "avg_loan": 16192,
+        "avg_annual_inc": 86051,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "MD",
+        "sum_loaned": 583888125,
+        "funded_amnt": 583888125,
+        "avg_loan": 16613,
+        "avg_annual_inc": 92208,
+        "avg_fico_range_low": 702,
+        "avg_fico_range_high": 706
+    },
+    {
+        "addr_state": "ME",
+        "sum_loaned": 72455450,
+        "funded_amnt": 72455450,
+        "avg_loan": 15072,
+        "avg_annual_inc": 70177,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "MI",
+        "sum_loaned": 554810650,
+        "funded_amnt": 554810650,
+        "avg_loan": 14947,
+        "avg_annual_inc": 75270,
+        "avg_fico_range_low": 703,
+        "avg_fico_range_high": 707
+    },
+    {
+        "addr_state": "MN",
+        "sum_loaned": 376565400,
+        "funded_amnt": 376565400,
+        "avg_loan": 15430,
+        "avg_annual_inc": 77918,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "MO",
+        "sum_loaned": 351264825,
+        "funded_amnt": 351264825,
+        "avg_loan": 15129,
+        "avg_annual_inc": 73072,
+        "avg_fico_range_low": 706,
+        "avg_fico_range_high": 710
+    },
+    {
+        "addr_state": "MS",
+        "sum_loaned": 139630050,
+        "funded_amnt": 139630050,
+        "avg_loan": 15100,
+        "avg_annual_inc": 74519,
+        "avg_fico_range_low": 703,
+        "avg_fico_range_high": 707
+    },
+    {
+        "addr_state": "MT",
+        "sum_loaned": 59383950,
+        "funded_amnt": 59383950,
+        "avg_loan": 14742,
+        "avg_annual_inc": 68093,
+        "avg_fico_range_low": 707,
+        "avg_fico_range_high": 711
+    },
+    {
+        "addr_state": "NC",
+        "sum_loaned": 623941400,
+        "funded_amnt": 623941400,
+        "avg_loan": 15599,
+        "avg_annual_inc": 77069,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "ND",
+        "sum_loaned": 50972900,
+        "funded_amnt": 50972900,
+        "avg_loan": 16135,
+        "avg_annual_inc": 77831,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "NE",
+        "sum_loaned": 103123550,
+        "funded_amnt": 103123550,
+        "avg_loan": 14704,
+        "avg_annual_inc": 68463,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "NH",
+        "sum_loaned": 114743325,
+        "funded_amnt": 114743325,
+        "avg_loan": 15516,
+        "avg_annual_inc": 82108,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "NJ",
+        "sum_loaned": 872096450,
+        "funded_amnt": 872096450,
+        "avg_loan": 16571,
+        "avg_annual_inc": 94948,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "NM",
+        "sum_loaned": 115878425,
+        "funded_amnt": 115878425,
+        "avg_loan": 15541,
+        "avg_annual_inc": 74503,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "NV",
+        "sum_loaned": 331094300,
+        "funded_amnt": 331094300,
+        "avg_loan": 15303,
+        "avg_annual_inc": 77201,
+        "avg_fico_range_low": 702,
+        "avg_fico_range_high": 706
+    },
+    {
+        "addr_state": "NY",
+        "sum_loaned": 1810580250,
+        "funded_amnt": 1810580250,
+        "avg_loan": 15578,
+        "avg_annual_inc": 85414,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "OH",
+        "sum_loaned": 709560625,
+        "funded_amnt": 709560625,
+        "avg_loan": 14980,
+        "avg_annual_inc": 72631,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "OK",
+        "sum_loaned": 209842000,
+        "funded_amnt": 209842000,
+        "avg_loan": 15822,
+        "avg_annual_inc": 75941,
+        "avg_fico_range_low": 706,
+        "avg_fico_range_high": 710
+    },
+    {
+        "addr_state": "OR",
+        "sum_loaned": 270910650,
+        "funded_amnt": 270910650,
+        "avg_loan": 15135,
+        "avg_annual_inc": 72381,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "PA",
+        "sum_loaned": 727522175,
+        "funded_amnt": 727522175,
+        "avg_loan": 15358,
+        "avg_annual_inc": 77483,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "RI",
+        "sum_loaned": 99000875,
+        "funded_amnt": 99000875,
+        "avg_loan": 14916,
+        "avg_annual_inc": 80044,
+        "avg_fico_range_low": 702,
+        "avg_fico_range_high": 706
+    },
+    {
+        "addr_state": "SC",
+        "sum_loaned": 294352375,
+        "funded_amnt": 294352375,
+        "avg_loan": 15678,
+        "avg_annual_inc": 77071,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "SD",
+        "sum_loaned": 44233050,
+        "funded_amnt": 44233050,
+        "avg_loan": 15231,
+        "avg_annual_inc": 70825,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "TN",
+        "sum_loaned": 368526025,
+        "funded_amnt": 368526025,
+        "avg_loan": 15222,
+        "avg_annual_inc": 74213,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "TX",
+        "sum_loaned": 1997904700,
+        "funded_amnt": 1997904700,
+        "avg_loan": 16359,
+        "avg_annual_inc": 85820,
+        "avg_fico_range_low": 704,
+        "avg_fico_range_high": 708
+    },
+    {
+        "addr_state": "UT",
+        "sum_loaned": 152471300,
+        "funded_amnt": 152471300,
+        "avg_loan": 16059,
+        "avg_annual_inc": 78465,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "VA",
+        "sum_loaned": 663206850,
+        "funded_amnt": 663206850,
+        "avg_loan": 17061,
+        "avg_annual_inc": 92059,
+        "avg_fico_range_low": 705,
+        "avg_fico_range_high": 709
+    },
+    {
+        "addr_state": "VT",
+        "sum_loaned": 48538750,
+        "funded_amnt": 48538750,
+        "avg_loan": 14180,
+        "avg_annual_inc": 69956,
+        "avg_fico_range_low": 706,
+        "avg_fico_range_high": 710
+    },
+    {
+        "addr_state": "WA",
+        "sum_loaned": 495394575,
+        "funded_amnt": 495394575,
+        "avg_loan": 16286,
+        "avg_annual_inc": 82405,
+        "avg_fico_range_low": 703,
+        "avg_fico_range_high": 707
+    },
+    {
+        "addr_state": "WI",
+        "sum_loaned": 295614575,
+        "funded_amnt": 295614575,
+        "avg_loan": 15317,
+        "avg_annual_inc": 72280,
+        "avg_fico_range_low": 706,
+        "avg_fico_range_high": 710
+    },
+    {
+        "addr_state": "WV",
+        "sum_loaned": 99052350,
+        "funded_amnt": 99052350,
+        "avg_loan": 15833,
+        "avg_annual_inc": 75356,
+        "avg_fico_range_low": 706,
+        "avg_fico_range_high": 710
+    },
+    {
+        "addr_state": "WY",
+        "sum_loaned": 46296150,
+        "funded_amnt": 46296150,
+        "avg_loan": 16522,
+        "avg_annual_inc": 73670,
+        "avg_fico_range_low": 708,
+        "avg_fico_range_high": 712
+    }
+]
