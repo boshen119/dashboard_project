@@ -5,6 +5,7 @@
 
 // Plotly.
 d3.json('/static/loan_sum_avg_cs.json', function(data){
+  console.log("Hello");
     console.log(data);
   });
     //   function unpack(rows, key) {
