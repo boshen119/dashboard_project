@@ -28,6 +28,7 @@ var render = data => {
     .attr('transform', `translate(${margin.left}, ${margin.top})`)
     g.append('g').call(d3.axisLeft(yscale));
     g.append('g').call(d3.axisBottom(xscale))
+    .text('testing testing')
     .attr('transform', `translate(0, ${innerHeight})`);
 
     g.selectAll('rect').data(data)
